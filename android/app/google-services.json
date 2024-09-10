@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342851717387",
+    "project_id": "mecazon-1",
+    "storage_bucket": "mecazon-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342851717387:android:5dca4ce6434c61d6f87a0e",
+        "android_client_info": {
+          "package_name": "com.mecazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342851717387-lq5j5m02c3vunojhghqnr7au05qufmev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mecazon",
+            "certificate_hash": "0aef8cc7390acf9f7e2547f4e7fffdb3b9021fc9"
+          }
+        },
+        {
+          "client_id": "342851717387-6cef07c7ncig1dnht4ofpjm8ooqtetjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcYAuFCdBptMP-Zpt-uftFna6Lux6Cdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342851717387-6cef07c7ncig1dnht4ofpjm8ooqtetjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
